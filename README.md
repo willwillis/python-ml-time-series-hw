@@ -97,3 +97,5 @@ Futures spreads, as opposed to futures contracts, often exhibit more seasonal pa
 * Include a Markdown that summarizes your models and findings and include this report in your GitHub repo.
 
 * Submit the link to your GitHub project to Bootcampspot.
+
+.
